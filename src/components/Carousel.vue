@@ -224,7 +224,7 @@ export default {
         position: absolute;
         top: 0;
         bottom: 0;
-        left: 200px;
+        left: 280px;
         width: 450px;
         height: 600px;
         margin: auto;
@@ -256,7 +256,7 @@ export default {
         position: absolute;
         top: 0;
         bottom: 0;
-        right: 200px;
+        right: 280px;
         width: 450px;
         height: 600px;
         margin: auto;
